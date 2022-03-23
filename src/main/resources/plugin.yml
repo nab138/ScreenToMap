@@ -1,0 +1,10 @@
+name: ScreenToMap
+version: '${project.version}'
+main: tk.nabdev.screentomap.ScreenToMap
+api-version: 1.13
+authors: [ nab138 ]
+description: Show your screen on some maps
+commands:
+  map:
+    description: map
+    usage: /<command>
